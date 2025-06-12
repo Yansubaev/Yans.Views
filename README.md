@@ -46,8 +46,6 @@ Alternatively, you can use the Unity Package Manager to install the package from
 3. Use adapters to populate your views with data.
 4. Manage your views using the provided view management system.
 
-For detailed examples and API documentation, please refer to the [documentation](#) (link to be added).
-
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
