@@ -1,0 +1,19 @@
+{
+  "name": "com.yans.views",
+  "version": "1.0.0",
+  "displayName": "Yans Views",
+  "description": "A Unity package for managing UI views and their interactions. This package provides a flexible system for creating, showing, and hiding different UI views within a Unity project. It includes a base `View` class, an `EnumerableView<V>` for managing collections of views with object pooling, list adapters (`ListAdapter<V>`, `UniversalAdapter<V>`) for data binding, and a `ButtonView` component.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "dependencies": {},
+  "keywords": [
+    "ui",
+    "view management",
+    "unity"
+  ],
+  "author": {
+    "name": "Denis Iansubaev",
+    "email": "iansubd@gmail.com",
+    "url": "https://github.com/Yansubaev"
+  }
+}
