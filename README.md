@@ -32,7 +32,7 @@ To install this package, add the following line to your `manifest.json` file loc
 ```json
 {
   "dependencies": {
-    "com.yans.views": "https://github.com/your-username/yans-views.git#upm"
+    "com.yans.views": "https://github.com/Yansubaev/Yans.Views.git"
   }
 }
 ```
