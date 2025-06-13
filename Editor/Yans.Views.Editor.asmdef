@@ -1,0 +1,18 @@
+{
+    "name": "Yans.Views.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7e13fbdd8a055a1489a1206f2497197f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
